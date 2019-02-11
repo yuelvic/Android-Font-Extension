@@ -1,11 +1,11 @@
-### Android Font Extension
+## Android Font Extension
 This library provides global configurations for your font,
 
-### Requirements
+## Requirements
 
 Your project must implement the [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/).
 
-### Setup
+## Setup
 
 Add jitpack in your project level build.gradle
 
@@ -25,7 +25,7 @@ dependencies {
 }
 ```
 
-### How to use
+## How to use
 
 Place your fonts.json inside main/assets/fonts. It should look like this:
 
