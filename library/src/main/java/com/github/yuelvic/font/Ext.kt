@@ -9,7 +9,6 @@ import androidx.databinding.BindingAdapter
 @BindingAdapter("type")
 fun setType(view: TextView, type: String) {
     val fontStyle = FontExt.get()[type]
-    Log.d("FONT", fontStyle.toString())
     if (fontStyle is FontStyle) {
         val typeface = Typeface.createFromAsset(view.context.assets, fontStyle.font)
 
