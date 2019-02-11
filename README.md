@@ -12,8 +12,8 @@ Add jitpack in your project level build.gradle
 ```gradle
 allprojects {
     repositories {
-		maven { url 'https://jitpack.io' }
-	}
+	maven { url 'https://jitpack.io' }
+    }
 }
 ```
 
