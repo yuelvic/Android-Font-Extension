@@ -49,6 +49,13 @@ Place your fonts.json inside main/assets/fonts. It should look like this:
 }
 ```
 
+In your layout file you must specify the TextView type
+```xml
+<TextView
+    app:type="@{'header'}"
+/>
+```
+
 And initialize the extension in your Application class
 
 ```kotlin
