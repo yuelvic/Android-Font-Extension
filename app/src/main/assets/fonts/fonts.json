@@ -1,0 +1,17 @@
+{
+    "header": {
+        "font": "fonts/Gabriel-custom.ttf",
+        "size": 20,
+        "style": "bold"
+    },
+    "body": {
+        "font": "fonts/Gabriel-serif.ttf",
+        "size": 16,
+        "style": "normal"
+    },
+    "footer": {
+        "font": "fonts/Gabriel-custom.ttf",
+        "size": 22,
+        "style": "normal"
+    }
+}
