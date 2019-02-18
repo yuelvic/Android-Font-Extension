@@ -27,7 +27,7 @@ dependencies {
 
 ## How to use
 
-Place your fonts.json inside main/assets/fonts. It should look like this:
+Place your fonts.json inside main/assets/fonts alongside with your font files. It should look like this:
 
 ```json
 {
