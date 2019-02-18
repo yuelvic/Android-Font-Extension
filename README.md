@@ -52,8 +52,7 @@ Place your fonts.json inside main/assets/fonts alongside with your font files. I
 In your layout file you must specify the TextView type
 ```xml
 <TextView
-    app:type="@{'header'}"
-/>
+    app:type="@{'header'}" />
 ```
 
 And initialize the extension in your Application class
